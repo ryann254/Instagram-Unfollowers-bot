@@ -1,1 +1,1 @@
-pw='Davidluiz@24'
+pw='Insert your instagram password here..'
