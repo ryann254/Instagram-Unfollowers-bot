@@ -64,7 +64,7 @@ class Instabot:
         return names
 
 
-username = 'papa_drac_rn'
+username = 'Insert your instagram username here'
 ryan_bot = Instabot(username, secrets.pw)
 #You can also use python -i(interactive) main.py
 ryan_bot.get_my_unfollowers()
